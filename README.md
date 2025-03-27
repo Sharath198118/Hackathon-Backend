@@ -48,17 +48,16 @@ These variables should be set in your environment or in a `.env` file.
    git clone https://github.com/Sharath198118/Hackathon-Backend.git
    cd Hackathon-Backend
 2. Build the project using Maven:
-  ```bash
-  mvn clean install
-
+   ```bash
+   mvn clean install
 3. Run the application:
-  ```bash
-  mvn spring-boot:run
+   ```bash
+   mvn spring-boot:run
 
 4. The application will be available at http://localhost:8080.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
