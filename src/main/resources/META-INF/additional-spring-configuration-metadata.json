@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "custom.feature.isDevelopment",
+  "type": "java.lang.String",
+  "description": "A description for 'custom.feature.isDevelopment'"
+}]}
